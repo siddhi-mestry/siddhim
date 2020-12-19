@@ -1,4 +1,5 @@
 
 Welcome to My Site...
 
-I am Siddhi Mestry from Sindhudurga. I have done my B. Sc. I. T. graduation from Sant Rawool Maharaj Mahavidyalaya, Kudal.
+I am Siddhi Mestry from Sindhudurg. I have done my B. Sc. I. T. graduation from Sant Rawool Maharaj Mahavidyalaya, Kudal.
+I have knowledge of html, css, bootstrap, javascript, jquery, php, mysql.
